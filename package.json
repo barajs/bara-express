@@ -24,7 +24,7 @@
   "dependencies": {
     "@barajs/core": "^3.0.0-alpha.427",
     "@barajs/formula": "^3.0.0-alpha.459",
-    "express": "4.17.1"
+    "express": "4.19.2"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.4",
