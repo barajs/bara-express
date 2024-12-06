@@ -24,7 +24,7 @@
   "dependencies": {
     "@barajs/core": "^3.0.0-alpha.427",
     "@barajs/formula": "^3.0.0-alpha.459",
-    "express": "4.17.1"
+    "express": "4.21.2"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.4",
@@ -32,7 +32,7 @@
     "@semantic-release/git": "7.0.16",
     "@semantic-release/github": "5.5.4",
     "@semantic-release/npm": "5.2.0",
-    "@types/express": "4.17.1",
+    "@types/express": "4.17.21",
     "prettier": "1.18.2",
     "semantic-release": "15.13.27",
     "ts-node-dev": "1.0.0-pre.43",
