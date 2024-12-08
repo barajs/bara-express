@@ -19,9 +19,7 @@
     js-tokens "^4.0.0"
 
 "@barajs/core@^3.0.0-alpha.427":
-  version "3.0.0-alpha.427"
-  resolved "https://registry.npmjs.org/@barajs/core/-/core-3.0.0-alpha.427.tgz#c9c4684411b68325619dfb73fae4dac58ccd5be4"
-  integrity sha512-kNhLBoAw6q59Msxv2h09ekQnWqeBi+4RLZyluZ9jda4In6qTs4kC3AUwc9jdT+63GguEfgja5fml45OpB2zFpg==
+  version "3.0.0-alpha.430"
   dependencies:
     xstream "11.11.0"
 
