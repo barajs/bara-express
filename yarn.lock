@@ -25,10 +25,10 @@
   dependencies:
     xstream "11.11.0"
 
-"@barajs/formula@^3.0.0-alpha.459":
-  version "3.0.0-alpha.459"
-  resolved "https://registry.npmjs.org/@barajs/formula/-/formula-3.0.0-alpha.459.tgz#73408cbbb34d6a4ba15c59703ee653ae09dd7489"
-  integrity sha512-KE05qK+I5wz9RnfeFadSqCFcq6UaKGIekqLXcQ7pHcaNdqdHcCeWNJNpW0BydtjhAnUFmpfjlWZX4b2AMgy8xQ==
+"@barajs/formula@^3.0.0-alpha.482":
+  version "3.0.0-alpha.482"
+  resolved "https://registry.yarnpkg.com/@barajs/formula/-/formula-3.0.0-alpha.482.tgz#20cbc681a3b5b1fcc68c34c66f5d4ffc1e98c68e"
+  integrity sha512-Ws2+Vx1r+H3QPoNvAFvxnwXAwfN6n6w5MQ614Qw8EC09oxZxIycN9HxEeuXKXbd348wabTVSCTosaVNpvm6PJw==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
